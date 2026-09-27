@@ -1,4 +1,4 @@
-This is a simple demonstration of building a simple data lake solution with AWS.
+**This is a simple demonstration of building a simple data lake solution with AWS.**
 
 Steps:
 1. Setup AWS services e.g. S3 buckets with Terraform.
