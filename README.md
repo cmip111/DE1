@@ -1,4 +1,4 @@
-![Alt text](DE1/DE1_image.jpg)
+![Alt text](DE1_image.jpg)
 **This is a simple demonstration of building a simple data lake solution with AWS.**
 
 Steps:
